@@ -1,4 +1,4 @@
-p.welcome{
+.welcome{
     color: purple;
 }
 
@@ -7,12 +7,21 @@ body{
     background-size: 550px 300px;
     background-color: rgb(63, 62, 62);
 }
-u1{
+.u1{
     color: rgb(180, 17, 17);
     
 }
-.img1{
+img{
     position: absolute;
     position: 0px;
     size: 50px;
+}
+title{
+    color: rgb(128, 7, 7);
+}
+element.style {
+    color: #CCC;
+    background-color: #CCC;
+    height: 1px;
+    border: none;
 }
