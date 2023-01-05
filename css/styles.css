@@ -68,3 +68,45 @@ body::-webkit-scrollbar {
   top: 40px; left: 1150px;
   color: white;
 }
+
+@import url(`https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900`);
+.j2{
+  position: absolute;
+  padding:  4px;
+ border-radius: 20px;
+  transition: 1s;
+}.j2:hover{
+  background: var(--clr);
+  box-shadow: 0 0 10px var(--clr),
+    0 0 30px var(--clr),
+    0 0 60px var(--clr),
+    0 0 100px var(--clr);
+}body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height:100vh;
+  flex-direction: column;
+}.j3{
+  position: absolute;
+  padding:  4px;
+ border-radius: 20px;
+  transition: 1s;
+}.j3:hover{
+  background: var(--clr);
+  box-shadow: 0 0 10px var(--clr),
+    0 0 30px var(--clr),
+    0 0 60px var(--clr),
+    0 0 100px var(--clr);
+}.j4{
+  position: absolute;
+  padding:  4px;
+ border-radius: 20px;
+  transition: 1s;
+}.j4:hover{
+  background: var(--clr);
+  box-shadow: 0 0 10px var(--clr),
+    0 0 30px var(--clr),
+    0 0 60px var(--clr),
+    0 0 100px var(--clr);
+}
