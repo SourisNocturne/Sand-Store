@@ -179,6 +179,8 @@ body::-webkit-scrollbar {
 }
 .lienc{
   color: white;
+    .lien{
+        color: white;}
 
 }
 .Tabs{
