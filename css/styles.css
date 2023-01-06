@@ -1,5 +1,5 @@
 .welcome{
-    color: purple;
+    color: blue;
     position: absolute;
     top: 0px; left: 400px;
     font-size: 30px;
@@ -26,17 +26,19 @@ border-radius: 25px;
 }
 .j2{
     position: absolute;
-    top: 40px; left: 750px;
+    top: 40px; left: 950px;
     color: white;
 }
 .image1{
     position: absolute;
     top: 25px; left: 275px;
     border-radius: 25px;
+    opacity: 95%;
 }
 HR{
    position: absolute;
    top: 50px; left: 300px;
+   opacity: 65%;
 } 
 .image3{
 position: absolute;
@@ -109,4 +111,185 @@ body::-webkit-scrollbar {
     0 0 30px var(--clr),
     0 0 60px var(--clr),
     0 0 100px var(--clr);
+}
+.lien1{
+  color: white;
+  background-color: #ff22bb;
+}
+.p2{
+  position: absolute;
+  top: 1030px; left: 350px;
+  color: white;
+}
+.image4{
+  border-radius: 20px;
+  position: absolute;
+  top: 650px; left: 310px;
+}
+.p1{
+  color: white;
+  position: relative;
+  top: 650px; left: 400px;
+  font-size: 20px;
+  font-weight: bold;
+
+}.j5{
+  position: absolute;
+  padding:  4px;
+ border-radius: 20px;
+  transition: 1s;
+}.j5:hover{
+  background: var(--clr);
+  box-shadow: 0 0 10px var(--clr),
+    0 0 30px var(--clr),
+    0 0 60px var(--clr),
+    0 0 100px var(--clr);
+}
+.j5{
+  position: absolute;
+  top: 40px; left: 629px;
+  color: white;
+ 
+}.lien2{
+  background-color: #ff22bb;
+  border-radius: 20px;
+  color: white;
+}.lien3{
+  background-color: #ff22bb;
+  border-radius: 20px;
+  color: white;
+}
+.lien4{
+  background-color: #ff22bb;
+  border-radius: 20px;
+  color: white;
+
+}
+.lien1{
+  background-color: #ff22bb;
+  border-radius: 20px;
+  color: white;
+}
+.liena{
+  color: white;
+}
+.lienb{
+  color: white;
+
+}
+.lienc{
+  color: white;
+
+}
+.Tabs{
+  position: absolute;
+  top: 600px; left: 1100px;
+  color: white;
+}
+.Social{
+  position: absolute;
+  top: 600px; left: 900px;
+  color: white;
+
+}
+.tabs1{
+  position: absolute;
+  padding:  4px;
+ border-radius: 20px;
+  transition: 1s;
+}.tabs1:hover{
+  background: var(--clr);
+  box-shadow: 0 0 10px var(--clr),
+    0 0 30px var(--clr),
+    0 0 60px var(--clr),
+    0 0 100px var(--clr);
+}.tabs1{
+  color: white;
+  position: absolute;
+  top: 650px; left: 1100px;
+  font-size: larger;
+}.tabs2{
+  position: absolute;
+  padding:  4px;
+ border-radius: 20px;
+  transition: 1s;
+}.tabs2:hover{
+  background: var(--clr);
+  box-shadow: 0 0 10px var(--clr),
+    0 0 30px var(--clr),
+    0 0 60px var(--clr),
+    0 0 100px var(--clr);
+}.tabs2{
+  color: white;
+  position: relative;
+  top: 660px; left: 1100px;
+  font-size: larger;
+}.tabs3{
+  position: absolute;
+  padding:  4px;
+ border-radius: 20px;
+  transition: 1s;
+}.tabs3:hover{
+  background: var(--clr);
+  box-shadow: 0 0 10px var(--clr),
+    0 0 30px var(--clr),
+    0 0 60px var(--clr),
+    0 0 100px var(--clr);
+}.tabs3{
+  color: white;
+  position: relative;
+  top: 675px; left: 1100px;
+  font-size: larger;
+}.tabs4{
+  position: absolute;
+  padding:  4px;
+ border-radius: 20px;
+  transition: 1s;
+}.tabs4:hover{
+  background: var(--clr);
+  box-shadow: 0 0 10px var(--clr),
+    0 0 30px var(--clr),
+    0 0 60px var(--clr),
+    0 0 100px var(--clr);
+}.tabs4{
+  color: white;
+  position: relative;
+  top: 685px; left: 1100px;
+  font-size: larger;
+}.social1{
+  position: absolute;
+  padding:  4px;
+ border-radius: 20px;
+  transition: 1s;
+}.social1:hover{
+  background: var(--clr);
+  box-shadow: 0 0 10px var(--clr),
+    0 0 30px var(--clr),
+    0 0 60px var(--clr),
+    0 0 100px var(--clr);
+}.social1{
+  color: white;
+  position: relative;
+  top: 463px; left: 900px;
+  font-size: larger;
+}.liens{
+  color: white;
+}.social2{
+  position: absolute;
+  padding:  4px;
+ border-radius: 20px;
+  transition: 1s;
+}.social2:hover{
+  background: var(--clr);
+  box-shadow: 0 0 10px var(--clr),
+    0 0 30px var(--clr),
+    0 0 60px var(--clr),
+    0 0 100px var(--clr);
+}.social2{
+  color: white;
+  position: relative;
+  top: 474px; left: 900px;
+  font-size: larger;
+}.liens{
+  color: white;
 }
